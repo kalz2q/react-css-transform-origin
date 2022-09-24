@@ -1,10 +1,7 @@
 CSS Animation 13 - transform origin
 https://www.youtube.com/watch?v=UOqQMpyLd28
 
-https://www.youtube.com/watch?v=p81YeIfLAtg&list=PLH3tw9J9QyRoJu1odXc1O9SfU3BNJfEWu&index=1
-https://www.youtube.com/watch?v=--l48Jnye5I&list=PLH3tw9J9QyRoJu1odXc1O9SfU3BNJfEWu&index=2
-https://www.youtube.com/watch?v=XhWpFBa4hFc&list=PLH3tw9J9QyRoJu1odXc1O9SfU3BNJfEWu&index=3
-https://www.youtube.com/watch?v=MfisCpYgzPI&list=PLH3tw9J9QyRoJu1odXc1O9SfU3BNJfEWu&index=4
+
 CSS Animation 05 - css transition timing
 CSS Animation 06 - css transition delay
 CSS Animation 07 - css transition shorthand all
