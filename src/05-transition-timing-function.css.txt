@@ -1,0 +1,68 @@
+.App {
+    /* text-align: center; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* padding: 20px; */
+    /* margin: 1em; */
+}
+
+body {
+    margin: 100px;
+    font-family: helvetica, sans-serif;
+    color: #444;
+}
+
+.wrapper {
+    display: block;
+    margin-bottom: 75px;
+}
+
+.sphere {
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    margin: 25px;
+    transition: margin 2s;
+    background-color: #3cf;
+}
+
+.wrapper:hover .sphere {
+    margin-left: 400px;
+}
+
+.s1 {
+    background-color: lightblue;
+    transition-timing-function: linear;
+}
+
+.s2 {
+    background-color: green;
+    transition-timing-function: ease;
+}
+
+.s3 {
+    background-color: yellow;
+    transition-timing-function: ease-in;
+}
+
+.s4 {
+    background-color: orange;
+    transition-timing-function: ease-out;
+}
+
+.s5 {
+    background-color: red;
+    transition-timing-function: ease-in-out;
+}
+
+.s5 {
+    background-color: chartreuse;
+    transition-timing-function: ease-in-out;
+}
+
+.s6 {
+    background-color: aquamarine;
+    transition-timing-function: cubic-bezier(0.98, 0.03, 0.97, 0.36);
+}

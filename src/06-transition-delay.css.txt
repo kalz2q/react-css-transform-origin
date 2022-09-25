@@ -28,37 +28,38 @@ body {
     box-sizing: border-box;
     line-height: 3;
     text-align: center;
+    transition: margin 2s;
+    transition-timing-function: linear;
+    background-color: deepskyblue;
 }
 
 .wrapper:hover .sphere {
     margin-left: 400px;
 }
 
-.s1 {
-    transition: margin 2s ease-in-out 400ms;
-}
+.s1 {}
 
 .s2 {
     background-color: lime;
-    transition: margin 1s ease 600ms;
+    transition-delay: 0.5s;
 }
 
 .s3 {
     background-color: gold;
-    transition: margin 500ms ease-out 1s;
+    transition-delay: 1s;
 }
 
 .s4 {
     background-color: orange;
-    transition: margin 1s linear 800ms;
+    transition-delay: -1s;
 }
 
 .s5 {
     background-color: red;
-    transition: margin 500ms ease-out 1s;
+    transition-delay: 0.5s;
 }
 
 .s6 {
     background-color: purple;
-    transition: margin 500ms ease 1s;
+    transition-delay: 3s;
 }
