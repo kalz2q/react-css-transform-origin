@@ -8,17 +8,11 @@ function App() {
   return (
     <div className="App">
       <div className="wrapper">
-        <div className="container">
-          <div className="box box1">500ms</div>
-        </div>
-        <div className="container">
-          <div className="box box2">1s</div>
-        </div>
-        <div className="container">
-          <div className="box box3">4s</div>
-        </div>
-
-
+        <div className="sphere s1"></div>
+        <div className="sphere s2"></div>
+        <div className="sphere s3"></div>
+        <div className="sphere s4"></div>
+        <div className="sphere s5"></div>
       </div>
     </div>
   );
