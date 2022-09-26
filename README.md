@@ -2,11 +2,6 @@ CSS Animation 13 - transform origin
 https://www.youtube.com/watch?v=UOqQMpyLd28
 
 
-CSS Animation 05 - css transition timing
-CSS Animation 06 - css transition delay
-CSS Animation 07 - css transition shorthand all
-CSS Animation 08 - transform overview
-CSS Animation 09 - transform scale
 CSS Animation 10 - transform rotate
 CSS Animation 11 - transform translate
 CSS Animation 12 - transform skew
