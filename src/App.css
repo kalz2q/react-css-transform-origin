@@ -13,14 +13,60 @@ body {
   font-family: helvetica, sans-serif;
   color: #fff;
 }
-.box {
-  background-color: turquoise;
-  border-radius: 8px;
-  width: 100px;
-  height: 100px;
-  margin: 100px;
-  transition: transform 1.5s;
+
+.container {
+  display: inline-block;
+  margin: 0 1em 20px 0;
 }
-.box:hover {
-  transform: scale(2);
+
+.wrapper:hover .box {
+  width: 150px;
+  height: 150px;
+}
+
+.box {
+  background-color: #3cf;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  transition-property: width;
+}
+
+.box1 {
+  transition-duration: 500ms;
+}
+
+.box2 {
+  transition-duration: 1s;
+}
+
+.box3 {
+  transition-duration: 4s;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
