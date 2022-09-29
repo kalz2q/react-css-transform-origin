@@ -1,8 +1,6 @@
 CSS Animation 13 - transform origin
 https://www.youtube.com/playlist?list=PLH3tw9J9QyRoJu1odXc1O9SfU3BNJfEWu
 
-CSS Animation 13 - transform origin
-CSS Animation 14 - multiple transforms
 CSS Animation 15 - matrix
 CSS Animation 16 - offload hover
 CSS Animation 17 - intro 3d transforms

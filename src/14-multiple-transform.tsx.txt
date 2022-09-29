@@ -1,0 +1,15 @@
+import React from 'react';
+import './App.css';
+
+function App() {
+  // animation-multiple-transform サンプル
+  return (
+    <div className="App">
+      <div className="drop"></div>
+      <div className="drop d2"></div>
+      <div className="drop d3"></div>
+    </div>
+  );
+}
+
+export default App;
