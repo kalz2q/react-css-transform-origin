@@ -2,11 +2,12 @@ import React from 'react';
 import './App.css';
 
 function App() {
-  // animation-offload-hover サンプル
+  // animation-transform-matxix サンプル
   return (
     <div className="App">
-      <div className="trig">
-        <div className="box"></div>
+      <div className="wrap">
+        <div className="box b1"></div>
+        <div className="box b2"></div>
       </div>
     </div>
   );
